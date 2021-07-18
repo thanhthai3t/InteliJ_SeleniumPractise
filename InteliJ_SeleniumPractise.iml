@@ -17,10 +17,16 @@
           <root url="jar://C:/Selenium/selenium-java-3.141.59/libs/okio-1.14.0.jar!/" />
           <root url="jar://C:/Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar!/" />
           <root url="jar://C:/Selenium/selenium-java-3.141.59/testng-7.3.0.jar!/" />
+          <root url="jar://C:/Selenium/selenium-java-3.141.59/commons-io-2.10.0-tests.jar!/" />
+          <root url="jar://C:/Selenium/selenium-java-3.141.59/commons-io-2.10.0.jar!/" />
         </CLASSES>
-        <JAVADOC />
+        <JAVADOC>
+          <root url="jar://C:/Selenium/selenium-java-3.141.59/commons-io-2.10.0-javadoc.jar!/" />
+        </JAVADOC>
         <SOURCES>
           <root url="jar://C:/Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-java-3.141.59/commons-io-2.10.0-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-java-3.141.59/commons-io-2.10.0-test-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
