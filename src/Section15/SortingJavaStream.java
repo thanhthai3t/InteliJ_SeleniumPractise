@@ -7,6 +7,6 @@ public class SortingJavaStream {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver91.exe");
         WebDriver driver = new ChromeDriver();
-        driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+        driver.get("https://rahulshettyacademy.com/seleniumPractise/#/offers");
     }
 }
